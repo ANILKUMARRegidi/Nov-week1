@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white; /* Optionally, set text color to white for better visibility */
+}
+header nav .items ul li{
+    list-style-type: none;
+    margin-right:1em;
+}
+header nav.navy{
+    background: #FCAF02;
+}
+input::placeholder {
+    color:#FCAF02;
+
+}
